@@ -1,5 +1,5 @@
 name: currencycore
-version: 0.1.0
+version: 0.1.1
 description: Official CurrencyCore API client - currency conversion, FX rates, PPP, and analytics for Dart and Flutter.
 homepage: https://currency-core.com
 repository: https://github.com/CurrencyCore/currencycore-dart
